@@ -16,3 +16,11 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Charles Gatchalian:
+  name        : "Charles Gatchalian"
+  uri         : "https://www.uh.edu/nsm/computer-science/"
+  email       : "cjgatchalian0516@gmail.com"
+  bio         : "UH Student"
+  avatar      : "profile.png"
+  twitter     : "gat516"
