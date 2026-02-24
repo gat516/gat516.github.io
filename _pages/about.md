@@ -1,7 +1,3 @@
-
-### Links
-- [Resume (PDF)](/files/resume.pdf)
-
 ---
 permalink: /
 title: "About Me"
@@ -14,7 +10,7 @@ redirect_from:
 Hi, I'm Charles Gatchalian. Welcome to my personal webpage!
 
 ## Education
-* **B.S. in Computer Science** (or your actual degree) - University of Houston
+* **B.S. in Computer Science** - University of Houston
 
 ## Links
 * [Department of Computer Science, University of Houston](https://cs.uh.edu)
