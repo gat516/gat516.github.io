@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About Me"
-author: "Charles Gatchalian"
 author_profile: true
 redirect_from: 
   - /about/
